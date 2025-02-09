@@ -6,7 +6,7 @@ from deep_translator import GoogleTranslator
 class TranslatorApp(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("QT Translator")
+        self.setWindowTitle("Deep Translator")
         self.setFixedSize(600, 700)
 
         # Light mode theme
