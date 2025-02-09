@@ -22,7 +22,7 @@ QT Translator is a real-time language translation application built using PyQt6 
 3. Download or clone this repository.
 4. Run the application using:
    ```sh
-   python translator.py
+   python main.py
    ```
 
 ## Usage
