@@ -38,12 +38,6 @@ QT Translator is a real-time language translation application built using PyQt6 
 - PyQt6
 - deep-translator
 
-## Future Enhancements
-- Dark mode toggle option.
-- Voice input support.
-- Text-to-speech for translated text.
-- Multi-paragraph translations.
-
 ## Author
 Created by **Vaibhav Pandey**.
 
