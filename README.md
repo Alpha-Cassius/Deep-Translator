@@ -44,5 +44,5 @@ QT Translator is a real-time language translation application built using PyQt6 
 - Multi-paragraph translations.
 
 ## Author
-Created by **Aditi Singh**.
+Created by **Vaibhav Pandey**.
 
