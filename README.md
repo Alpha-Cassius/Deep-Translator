@@ -1,4 +1,5 @@
 # Deep-Translator - Real-time Language Translator
+---------------------------------------------------
 
 ## Description
 QT Translator is a real-time language translation application built using PyQt6 and GoogleTranslator from the `deep_translator` module. The application allows users to input text, select source and target languages, and view instant translations with a smooth and responsive UI.
